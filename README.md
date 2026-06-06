@@ -10,7 +10,7 @@ https://api.tmsandbox.co.nz/v1/Categories/{CategoryID}/Details.json?catalogue=fa
 **Test Data (Category IDs):**
 6327, 6328, 6329, 6330, 6331, 6332, 6333, 6334, 6335, 6336
 
-**Test Data File Location in Repository**:Category.csv in the Repo
+**Test Data File Location in Repository**:CategoryId.csv in the Repo
 
 If you want to run the script, ensure:
 - The Category IDs are read from the above file
