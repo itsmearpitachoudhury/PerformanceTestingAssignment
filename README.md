@@ -59,11 +59,11 @@ Sample command (need to update the paths)
 Jmeter command: .\jmeter -n -t "Assignment.jmx" -l "results.jtl" -e -o "report"
 
 
-**Performance Test Observations and Recommendations:**
--No request failures (0% error rate)
--API is stable under defined load
--The 90 percentile is not within SLA of 500ms and hence needs to investigated.
--Response times are inconsistent as the min response time is 353 ms and max response time is 1.717 sec irrespective of the  payload.
+## Performance Test Observations and Recommendations:
+- No request failures (0% error rate)
+- API is stable under defined load
+- The 90 percentile is not within SLA of 500ms and hence needs to investigated.
+- Response times are inconsistent as the min response time is 353 ms and max response time is 1.717 sec irrespective of the  payload.
 
-** Detailed Performance Test Report in the repository**: PerformanceTestReport.csv
+**Detailed Performance Test Report in the repository**: PerformanceTestReport.csv
 
