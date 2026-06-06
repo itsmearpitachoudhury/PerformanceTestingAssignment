@@ -38,7 +38,7 @@ The script extracts the following fields:
 - Promotion ID  
 - Price  
 
-📁 **Output File:**- output.csv is the repo
+📁 **Output File:**- output.csv in the repo
 
 ## ✅ Non-Functional Requirements Implementation
 
